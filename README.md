@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date : 09-11-2023
+## Date : 26-10-2023
 
 ## AIM:
 To design a website to find total surface area of a square prism in server side.
@@ -162,8 +162,10 @@ urlpatterns = [
 ```
 
 ## OUTPUT:
-![Alt text](image-1.png)
-![Alt text](image-2.png)
+![image](https://github.com/keerthanaa10/MathServer/assets/132996371/f5e5fe22-6ee3-4613-98c8-18134c6648da)
+
+![image](https://github.com/keerthanaa10/MathServer/assets/132996371/18a52901-a410-496b-8d8f-2a45a119a5d8)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
